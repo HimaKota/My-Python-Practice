@@ -4,4 +4,4 @@
 fname = "Hima"
 lname = "Kota"
 full_name = fname +" "+lname
-print("My full name is ",full_name)
+print("Full name is ",full_name)
